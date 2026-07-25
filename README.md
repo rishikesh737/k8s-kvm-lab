@@ -24,5 +24,3 @@ graph TD
         
         KVM --> Cluster
     end
-```
-
